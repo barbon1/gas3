@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/barbon1/gas3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/barbon1/gas3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# How Natural Gas is Obtained
+Now imagine how to obtain the invisible treasure? That's the challenge face by geologist
+when exploring for natural gas. Sometimes there are clues on the earth's surface. An oil
+seeps is a possible sign of natural gas below, since oil and gas are sometimes found together.
+Geologists also have sensitive machines that can "sniff" surface soil and air for small
+amounts of natural gas that may have leaked from below ground.
+The search for natural gas begins with geologists who locate the types of rock that are
+known to contain gas and oil deposits. Today their tools include seismic surveys that are
+used to find the right places to drill wells. Seismic surveys use echoes from a vibration
+source at the Earth's surface (usually a vibrating pad under a truck built for this purpose) to
+collect information about the rocks beneath. They send sound waves into the ground and
+measure how fast the waves bounce back. This tells them how hard and how thick the
+different rock layers are underground. The data is fed into a computer, which draws a 
+picture of the rock layers. This picture is called a seismogram. Sometimes, it is necessary to
+use small amounts of dynamite to provide the vibration that is needed.
+The next task are taken by scientists and engineers who explore a chosen area by studying
+rock samples from the earth and taking measurements. If the site seems promising, drilling
+begins. Some of these areas are on land but many are offshore, deep in the ocean. Once the
+gas is found, it flows up through the well to the surface of the ground and into large
+pipelines. Some of the gases that are produced along with methane, such as butane and
+propane, are separated and the other sour gases such as carbon dioxide and hydrogen
+sulfide are cleaned at a gas processing plant (normally called as sweetening process). The
+by-products, once removed, are used in a number of ways. For example, propane and
+butane can be used for cooking gas.
+Because natural gas is colorless, odorless and tasteless, mercaptan (a sulfur-containing
+organic compound with the general formula RSH where R is any radical, especially ethyl
+mercaptan, C2H5SH) is added before distribution, to give it a distinct unpleasant odor (like
+that of rotten eggs). This serves as a safety device by allowing it to be detected in the
+atmosphere, in cases where leaks occur.
+Most of the natural gas consumed in the United States is produced in the United States.
+Some is imported from Canada and shipped to the United States in pipelines. Increasingly
+natural gas is also being shipped to the United States as liquefied natural gas (LNG). 
